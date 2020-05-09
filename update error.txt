@@ -1,3 +1,6 @@
-Error “The goal you specified requires a project to execute but there is no POM in this directory” after executing 
+에러내용 : Error “The goal you specified requires a project to execute but there is no POM in this directory” after executing 
 
 mvn install:install-file "-DgroupId=org.mozilla" "-DartifactId=jss" "-Dversion=4.2.5" "-Dpackaging=jar" "-Dfile=C:\workspace\componentes-1.0.4\deps\jss-4.2.5.jar"
+
+"cmd" 창에서 mvn ~  전체복사해서 붙혀넣기하면 됩니다.
+아직 한가지 더 풀어야할 숙제는 있습니다.
